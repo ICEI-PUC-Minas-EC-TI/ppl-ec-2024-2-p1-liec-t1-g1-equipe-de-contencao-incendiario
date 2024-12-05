@@ -14,7 +14,7 @@ Os materiais utilizados no projeto foram:
 - 1 Borrifador
 # Desenvolvimento
 
-O desenvolvimento foi coonstituído por etapas das quais se destcam: 
+O desenvolvimento foi constituído por etapas das quais se destacam: 
 
 ## Desenvolvimento do Aplicativo
 
@@ -32,7 +32,7 @@ O código do APP coleta o IP digitado e o copia em um link HTTP, para se conecta
 
 ### Montagem
 
-A montagem do carrinho foi desenvolvida pensando em sua melhor performance e mobilidade. Um desses feitos foi o fato de termos alimentações separadas, tanto par o ESP, quanto a ponte H.
+A montagem do carrinho foi desenvolvida pensando em sua melhor performance e mobilidade. Um desses feitos foi o fato de termos alimentações separadas, tanto para o ESP, quanto a ponte H. O ESP 8266 por sua vez, é mais compacto e seu modo de comunicação por wi-fi retorna uma resposta mais rápida que o de bluetooth do ESP 32. A distribuição e cabeamento dos motores na ponte H foi feito de forma que as 2 rodas da direita fossem sincronizadas e o mesmo para as da esquerda.
 
 ### Desenvolvimento do Código
 
