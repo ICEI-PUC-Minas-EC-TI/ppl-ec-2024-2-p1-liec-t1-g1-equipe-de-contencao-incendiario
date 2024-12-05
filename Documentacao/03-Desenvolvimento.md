@@ -14,31 +14,29 @@ Os materiais utilizados no projeto foram:
 - 1 Borrifador
 # Desenvolvimento
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+O desenvolvimento foi coonstituído por etapas das quais se destcam: 
 
 ## Desenvolvimento do Aplicativo
 
+
+
 ### Interface
 
-Descreva o desenvolvimento das telas do aplicativo.
+Ao desenvolver a interface do APP, o Scrum Master Samuel chegou a conclusão que a tela do aplicativo deveria ser o mais minimalista possível e contendo tudo em uma interface somente, incluindo as setas de comando, o "slider" de velocidade, e o IP necessário para conectar a rede WIFI.
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
+O código do APP coleta o IP digitado e o copia em um link HTTP, para se conectar com o ESP, e dependendo de qual botão é apertado a URL muda o "State" e assim ativando a condição respectiva no codigo da placa.
 
 ## Desenvolvimento do Hardware
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+A montagem do carrinho foi desenvolvida pensando em sua melhor performance e mobilidade. Um desses feitos foi o fato de termos alimentações separadas, tanto par o ESP, quanto a ponte H.
 
 ### Desenvolvimento do Código
 
-Durante o desenvolvimento do caminhão de bombeiros, que representa um avanço significativo, foi feita uma tentativa de compilar e executar o código sem o microcontrolador fornecido. Projeto de uso de aeronaves para ESP32, suportando nosso suporte e bibliotecas, processos principais e recursos especiais para IoT. No entanto, o fornecedor forneceu um ESP8266 por engano.
-
-Essa opção foi inicialmente ignorada, levando a falhas durante a fase de compilação. Bibliotecas específicas do ESP32, como aquelas que permitiam a conectividade Bluetooth e a manipulação de vários núcleos de processador, não eram compatíveis com o ESP8266. Além disso, configurações como mapeamento de memória e pinos de gerenciamento de memória tiveram que ser ajustadas porque os dois microcontroladores possuem arquiteturas e capacidades diferentes.
-
-Falha na identificação e repetição de erros na compilação e pré-verificação de firmware, exigindo diagnósticos cuidadosos para entender novamente que hardware sofisticado não atende à especificação no projeto. Correspondência exata de código e soluções alternativas de barramento, bibliotecas alternativas e bibliotecas incompatíveis e limitação do uso de restrições de recursão no ESP8266.
+O desenvolvimento do código foi relativamente simples, em primeira instancia a equipe estava ocupada em fazer o carrinho andar via USB, criando seus comandos básicos, visando testar o funcionamento de cada motor e descobrindo se ele teria força para seguir todos os comandos. Segundamente era preciso conectar os comandos a condições de sinais via bluetooth, nesse momento foi percebido que a peça vendida não se tratava de um ESP32 e sim um ESP8266, assim excluindo a possibilidade da conexão via bluetooth e restando a opção de usar WIFI. Tendo isso em mente foi necessário procurar nos fóruns do app inventor como comunicar o app com o ESP via WIFI. Ao fim o ESP cria uma rede de WIFI chamada "firefighter car" para conectar o dispostivo com o APP a placa e assim receber informações que serão usadas nas condições "if" e executar os comandos atenriormente citados.
 
 ## Comunicação entre App e Hardware
 
