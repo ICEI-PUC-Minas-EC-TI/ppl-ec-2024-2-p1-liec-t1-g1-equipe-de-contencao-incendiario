@@ -11,9 +11,9 @@
 
 ## Integrantes
 
-* Arthur
-* Gabriel Frederico Vieira
-* Juan Barajas
+* Arthur Borges Correia
+* Gabriel Frederico Vieira Silva
+* Juan Carlos Souza Barajas Lorenzo
 * Kevin Souki
 * Samuel Henrique Rodrigues Costa
 
