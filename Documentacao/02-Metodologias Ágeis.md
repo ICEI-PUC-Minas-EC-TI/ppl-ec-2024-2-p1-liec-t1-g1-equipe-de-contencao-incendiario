@@ -3,11 +3,10 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O Scrum neste projeto devido à sua capacidade de organizar o trabalho em ciclos curtos e iterativos, permite que as tarefas fossem priorizadas e ajustadas conforme surgissem novos desafios, como a necessidade de adaptar o código ao hardware. Essa metodologia é essencial para promover colaboração eficiente entre os membros da equipe, facilitar a identificação e resolução de problemas rapidamente e manter o foco nos objetivos principais. Além disso, o Scrum garantiu entregas incrementais e constantes, assegurando que o progresso fosse visível e que os aprendizados de cada etapa fossem incorporados no planejamento das próximas, contribuindo diretamente para o sucesso do protótipo final.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Samuel Henrique Rodrigues Costa;
@@ -16,8 +15,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+![image](https://github.com/user-attachments/assets/dca8059b-c858-48a3-83c3-6f9949f2f90c)
+
 
 ### Ferramentas
 
@@ -27,3 +26,4 @@ As ferramentas utilizadas no projeto foram:
 - Arduino IDE
 - Tinkercad
 - Wokwi
+- Jira
