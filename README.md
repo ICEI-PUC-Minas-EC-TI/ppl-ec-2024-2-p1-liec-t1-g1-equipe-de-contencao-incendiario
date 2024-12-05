@@ -1,25 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`PUC Minas/Lourdes`
 
-`CURSO`
+`Engenharia da Computação`
 
-`SEMESTRE`
+`1° SEMESTRE`
 
-`DISCIPLINA`
+`Laboratório de Introução a Engenharia da Computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Arthur
+* Gabriel Frederico Vieira
+* Juan Barajas
+* Kevin Souki
+* Samuel Henrique Rodrigues Costa
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
