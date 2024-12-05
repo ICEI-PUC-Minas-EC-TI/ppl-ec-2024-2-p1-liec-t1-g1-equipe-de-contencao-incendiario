@@ -23,7 +23,7 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto é de um carrinho bombeiro feito por ESP 8266, que anda e projetado com a ideia de apagar possíveis focos incendiários ao redor do planeta. Além de ser interessante a sua aplicaçao para intertesses sócio-ambientais, é interessante o aprendizado adquirido com micro controladores e circuitos elétricos, sem mencionar a programação envolvendo o app e o ESP.
 
 # Código (do arduino ou esp32)
 
