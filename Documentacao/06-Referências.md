@@ -1,3 +1,4 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho (no formato ABNT).
+https://tttapa.github.io/ESP8266/Chap07%20-%20Wi-Fi%20Connections.html
+https://community.appinventor.mit.edu/c/mit-app-inventor-help/5
